@@ -1,6 +1,6 @@
 {
   "name": "casualis",
-  "version": "0.0.1",
+  "version": "0.0.1c",
   "description": "Generate russian fullnames ",
   "main": "index.js",
   "scripts": {

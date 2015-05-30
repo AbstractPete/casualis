@@ -1,8 +1,8 @@
-'use strict'
+'use strict';
 
 var fs = require('fs');
 
-var DICTIONARIES = JSON.parse(fs.readFileSync('dict.json','utf-8'));
+var DICTIONARIES = JSON.parse(fs.readFileSync(__dirname + '/dict.json','utf-8'));
 
 var Person = function(surname,name,patronimic){
     this.surname = surname;
@@ -11,14 +11,14 @@ var Person = function(surname,name,patronimic){
     this.toString = function(){
         return this.surname + ' ' + this.name + ' ' + this.patronymic;
     }
-}
+};
 
 var random = function(length){
     return Math.floor(Math.random() * length);
 };
 
 var load = function (resource){
-    return fs.readFileSync(resource).toString().split("\r\n");
+    return fs.readFileSync(__dirname + '/' + resource).toString().split("\r\n");
 
 };
 
