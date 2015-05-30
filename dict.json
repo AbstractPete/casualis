@@ -1,0 +1,10 @@
+{
+  "RU":{
+     "RU_MALE_SURNAMES":"./resource/ru/male_surnames.txt"
+    ,"RU_MALE_NAMES":"./resource/ru/male_names.txt"
+    ,"RU_MALE_PATRONYMICS":"./resource/ru/male_patronymics.txt"
+    ,"RU_FEMALE_SURNAMES":"./resource/ru/female_surnames.txt"
+    ,"RU_FEMALE_NAMES":"./resource/ru/female_names.txt"
+    ,"RU_FEMALE_PATRONYMICS":"./resource/ru/female_patronymics.txt"
+  }
+}
