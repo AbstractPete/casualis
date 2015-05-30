@@ -1,0 +1,26 @@
+{
+  "name": "casualis",
+  "version": "0.0.1",
+  "description": "Generate russian fullnames ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "generate",
+    "random",
+    "fake",
+    "user",
+    "names"
+  ],
+  "author": "AbstractPete",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbstractPete/casualis.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AbstractPete/casualis/issues"
+  },
+  "homepage": "https://github.com/AbstractPete/casualis#readme"
+}
