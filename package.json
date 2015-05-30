@@ -1,6 +1,6 @@
 {
   "name": "casualis",
-  "version": "0.0.1c",
+  "version": "0.0.1d",
   "description": "Generate russian fullnames ",
   "main": "index.js",
   "scripts": {
@@ -23,4 +23,5 @@
     "url": "https://github.com/AbstractPete/casualis/issues"
   },
   "homepage": "https://github.com/AbstractPete/casualis#readme"
+  ,"readme": "README.md"
 }
