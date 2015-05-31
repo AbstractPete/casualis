@@ -3,7 +3,7 @@ Casualis
 WTF IS THIS SHIT ?
 ---------------------
 > It's a simple module that allows you to generate **surnames**, **names** and **patronymic** .
-> **!** Currently the module supports only Russian names.
+> Currently the module supports only Russian names.
 
 Install
 -------
